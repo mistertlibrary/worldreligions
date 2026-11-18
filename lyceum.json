@@ -1,0 +1,89 @@
+{
+  "lyceum": 1,
+  "title": "The Five Major World Religions",
+  "description": "Exploring an essential question across five major religious traditions!",
+  "url": "https://mistertlibrary.github.io/worldreligions/",
+  "series": "",
+  "course": "World History",
+  "subjects": [
+    "Social Studies",
+    "Culture and Geography"
+  ],
+  "sections": [
+    {
+      "title": "Choose a Question",
+      "anchor": "#question",
+      "keywords": [
+        "How does the study of religion help us to gain empathy and understanding of the world around us?",
+        "How does religion affect the lives of its followers?",
+        "Do the lasting impacts of religion outweigh the enduring issues?",
+        "Does religion create more unity or division?",
+        "Is there a “right” or “wrong” way to use religion?",
+        "Who Counts as Major",
+        "Sikhism"
+      ]
+    },
+    {
+      "title": "Get the Big Picture",
+      "anchor": "#big",
+      "keywords": [
+        "Britannica School",
+        "World Book Online",
+        "Hinduism",
+        "Buddhism",
+        "Christianity",
+        "Islam",
+        "Judaism"
+      ]
+    },
+    {
+      "title": "Go Deeper",
+      "anchor": "#deeper",
+      "keywords": [
+        "World Religions",
+        "ABC-CLIO",
+        "Explora High Schools",
+        "EBSCO"
+      ]
+    },
+    {
+      "title": "Find Texts and Objects",
+      "anchor": "#objects",
+      "keywords": [
+        "Pluralism Project",
+        "Smarthistory",
+        "Heilbrunn Timeline of Art History",
+        "Metropolitan Museum of Art",
+        "Encountering Religion in Asian Art",
+        "Smithsonian",
+        "Sefaria",
+        "Torah",
+        "Talmud",
+        "SuttaCentral",
+        "Quran.com",
+        "Qur'an",
+        "Bible Gateway",
+        "NRSVue",
+        "Bible",
+        "Gita Supersite",
+        "Bhagavad Gita",
+        "Upanishads",
+        "Ramayana",
+        "Pew Research Center",
+        "Storybook",
+        "Shoebox Museum"
+      ]
+    },
+    {
+      "title": "Cite It",
+      "anchor": "#cite",
+      "keywords": [
+        "NoodleTools",
+        "Citation Station",
+        "MLA",
+        "Works Cited",
+        "in-text citation"
+      ]
+    }
+  ]
+}
